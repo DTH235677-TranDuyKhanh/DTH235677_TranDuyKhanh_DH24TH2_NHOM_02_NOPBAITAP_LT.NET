@@ -1,0 +1,14 @@
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\bin\Debug\net8.0\Bai6.exe
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\bin\Debug\net8.0\Bai6.deps.json
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\bin\Debug\net8.0\Bai6.runtimeconfig.json
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\bin\Debug\net8.0\Bai6.dll
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\bin\Debug\net8.0\Bai6.pdb
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\obj\Debug\net8.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfoInputs.cache
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfo.cs
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\obj\Debug\net8.0\Bai6.csproj.CoreCompileInputs.cache
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\obj\Debug\net8.0\Bai6.dll
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\obj\Debug\net8.0\refint\Bai6.dll
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\obj\Debug\net8.0\Bai6.pdb
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\obj\Debug\net8.0\Bai6.genruntimeconfig.cache
+Z:\DTH235677_TranDuyKhanh\BuoiTH1\Bai6\obj\Debug\net8.0\ref\Bai6.dll

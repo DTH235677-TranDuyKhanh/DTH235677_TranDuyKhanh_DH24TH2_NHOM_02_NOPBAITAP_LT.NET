@@ -1,0 +1,17 @@
+D:\DTH235677_.NET\Bai2\Bài 2.10\bin\Debug\net8.0-windows\Bài 2.10.exe
+D:\DTH235677_.NET\Bai2\Bài 2.10\bin\Debug\net8.0-windows\Bài 2.10.deps.json
+D:\DTH235677_.NET\Bai2\Bài 2.10\bin\Debug\net8.0-windows\Bài 2.10.runtimeconfig.json
+D:\DTH235677_.NET\Bai2\Bài 2.10\bin\Debug\net8.0-windows\Bài 2.10.dll
+D:\DTH235677_.NET\Bai2\Bài 2.10\bin\Debug\net8.0-windows\Bài 2.10.pdb
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài_2._10.Form1.resources
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài 2.10.csproj.GenerateResource.cache
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài 2.10.GeneratedMSBuildEditorConfig.editorconfig
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài 2.10.AssemblyInfoInputs.cache
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài 2.10.AssemblyInfo.cs
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài 2.10.csproj.CoreCompileInputs.cache
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài 2.10.sourcelink.json
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài 2.10.dll
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\refint\Bài 2.10.dll
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài 2.10.pdb
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\Bài 2.10.genruntimeconfig.cache
+D:\DTH235677_.NET\Bai2\Bài 2.10\obj\Debug\net8.0-windows\ref\Bài 2.10.dll
