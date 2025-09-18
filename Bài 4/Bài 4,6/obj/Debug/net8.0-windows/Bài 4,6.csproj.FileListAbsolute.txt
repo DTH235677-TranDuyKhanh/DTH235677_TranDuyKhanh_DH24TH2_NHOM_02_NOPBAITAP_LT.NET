@@ -1,0 +1,7 @@
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh2\Bài 4\Bài 4,6\obj\Debug\net8.0-windows\Bài_4_6.Form1.resources
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh2\Bài 4\Bài 4,6\obj\Debug\net8.0-windows\Bài 4,6.csproj.GenerateResource.cache
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh2\Bài 4\Bài 4,6\obj\Debug\net8.0-windows\Bài 4,6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh2\Bài 4\Bài 4,6\obj\Debug\net8.0-windows\Bài 4,6.AssemblyInfoInputs.cache
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh2\Bài 4\Bài 4,6\obj\Debug\net8.0-windows\Bài 4,6.AssemblyInfo.cs
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh2\Bài 4\Bài 4,6\obj\Debug\net8.0-windows\Bài 4,6.csproj.CoreCompileInputs.cache
+D:\DTH235677_LT.Net\Buoi_Thuc_Hanh2\Bài 4\Bài 4,6\obj\Debug\net8.0-windows\Bài 4,6.sourcelink.json

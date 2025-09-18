@@ -1,0 +1,17 @@
+D:\DTH235677_.NET\Bai2\Bài 2.6\bin\Debug\net8.0-windows\Bài 2.6.exe
+D:\DTH235677_.NET\Bai2\Bài 2.6\bin\Debug\net8.0-windows\Bài 2.6.deps.json
+D:\DTH235677_.NET\Bai2\Bài 2.6\bin\Debug\net8.0-windows\Bài 2.6.runtimeconfig.json
+D:\DTH235677_.NET\Bai2\Bài 2.6\bin\Debug\net8.0-windows\Bài 2.6.dll
+D:\DTH235677_.NET\Bai2\Bài 2.6\bin\Debug\net8.0-windows\Bài 2.6.pdb
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài_2._6.Form1.resources
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài 2.6.csproj.GenerateResource.cache
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài 2.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài 2.6.AssemblyInfoInputs.cache
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài 2.6.AssemblyInfo.cs
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài 2.6.csproj.CoreCompileInputs.cache
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài 2.6.sourcelink.json
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài 2.6.dll
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\refint\Bài 2.6.dll
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài 2.6.pdb
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\Bài 2.6.genruntimeconfig.cache
+D:\DTH235677_.NET\Bai2\Bài 2.6\obj\Debug\net8.0-windows\ref\Bài 2.6.dll

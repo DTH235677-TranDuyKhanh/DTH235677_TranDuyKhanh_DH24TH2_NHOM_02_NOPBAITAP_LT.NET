@@ -1,0 +1,17 @@
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\bin\Debug\net8.0-windows\Bài 3.2.exe
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\bin\Debug\net8.0-windows\Bài 3.2.deps.json
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\bin\Debug\net8.0-windows\Bài 3.2.runtimeconfig.json
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\bin\Debug\net8.0-windows\Bài 3.2.dll
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\bin\Debug\net8.0-windows\Bài 3.2.pdb
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài_3._2.Form1.resources
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài 3.2.csproj.GenerateResource.cache
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài 3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài 3.2.AssemblyInfoInputs.cache
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài 3.2.AssemblyInfo.cs
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài 3.2.csproj.CoreCompileInputs.cache
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài 3.2.sourcelink.json
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài 3.2.dll
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\refint\Bài 3.2.dll
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài 3.2.pdb
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\Bài 3.2.genruntimeconfig.cache
+D:\DTH235677_.NET\Buoith2\Bài 3.1\Bài 3.2\obj\Debug\net8.0-windows\ref\Bài 3.2.dll

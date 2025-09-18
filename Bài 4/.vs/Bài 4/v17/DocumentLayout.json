@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEFF6D7-A93D-47D5-897E-0BE1C68BE404}|B\u00E0i 4.7\\B\u00E0i 4.7.csproj|d:\\dth235677_lt.net\\buoi_thuc_hanh2\\b\u00E0i 4\\b\u00E0i 4.7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEFF6D7-A93D-47D5-897E-0BE1C68BE404}|B\u00E0i 4.7\\B\u00E0i 4.7.csproj|solutionrelative:b\u00E0i 4.7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEFF6D7-A93D-47D5-897E-0BE1C68BE404}|B\u00E0i 4.7\\B\u00E0i 4.7.csproj|d:\\dth235677_lt.net\\buoi_thuc_hanh2\\b\u00E0i 4\\b\u00E0i 4.7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEFF6D7-A93D-47D5-897E-0BE1C68BE404}|B\u00E0i 4.7\\B\u00E0i 4.7.csproj|solutionrelative:b\u00E0i 4.7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DE241F-0FA6-4245-870C-7CA93901E748}|B\u00E0i 4,5\\B\u00E0i 4,5.csproj|d:\\dth235677_lt.net\\buoi_thuc_hanh2\\b\u00E0i 4\\b\u00E0i 4,5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52DE241F-0FA6-4245-870C-7CA93901E748}|B\u00E0i 4,5\\B\u00E0i 4,5.csproj|solutionrelative:b\u00E0i 4,5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B25DE-7879-4539-A3F5-19B2CF1FEB89}|B\u00E0i 4.6\\B\u00E0i 4.6.csproj|d:\\dth235677_lt.net\\buoi_thuc_hanh2\\b\u00E0i 4\\b\u00E0i 4.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B25DE-7879-4539-A3F5-19B2CF1FEB89}|B\u00E0i 4.6\\B\u00E0i 4.6.csproj|solutionrelative:b\u00E0i 4.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B25DE-7879-4539-A3F5-19B2CF1FEB89}|B\u00E0i 4.6\\B\u00E0i 4.6.csproj|d:\\dth235677_lt.net\\buoi_thuc_hanh2\\b\u00E0i 4\\b\u00E0i 4.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{785B25DE-7879-4539-A3F5-19B2CF1FEB89}|B\u00E0i 4.6\\B\u00E0i 4.6.csproj|solutionrelative:b\u00E0i 4.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DE241F-0FA6-4245-870C-7CA93901E748}|B\u00E0i 4,5\\B\u00E0i 4,5.csproj|d:\\dth235677_lt.net\\buoi_thuc_hanh2\\b\u00E0i 4\\b\u00E0i 4,5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DE241F-0FA6-4245-870C-7CA93901E748}|B\u00E0i 4,5\\B\u00E0i 4,5.csproj|solutionrelative:b\u00E0i 4,5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4.7\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 4.7\\Form1.cs",
+              "ToolTip": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4.7\\Form1.cs",
+              "RelativeToolTip": "B\u00E0i 4.7\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:31:08.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4.7\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 4.7\\Form1.cs",
+              "ToolTip": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4.7\\Form1.cs [Design]",
+              "RelativeToolTip": "B\u00E0i 4.7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:30:48.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4.6\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 4.6\\Form1.cs",
+              "ToolTip": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4.6\\Form1.cs",
+              "RelativeToolTip": "B\u00E0i 4.6\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:29:46.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4.6\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 4.6\\Form1.cs",
+              "ToolTip": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4.6\\Form1.cs [Design]",
+              "RelativeToolTip": "B\u00E0i 4.6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:29:14.829Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4,5\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 4,5\\Form1.cs",
+              "ToolTip": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4,5\\Form1.cs",
+              "RelativeToolTip": "B\u00E0i 4,5\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:24:22.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4,5\\Form1.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 4,5\\Form1.cs",
+              "ToolTip": "D:\\DTH235677_LT.Net\\Buoi_Thuc_Hanh2\\B\u00E0i 4\\B\u00E0i 4,5\\Form1.cs [Design]",
+              "RelativeToolTip": "B\u00E0i 4,5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:24:09.327Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
